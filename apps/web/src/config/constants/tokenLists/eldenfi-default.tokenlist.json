@@ -1,0 +1,242 @@
+{
+  "name": "EldenFi Default List",
+  "timestamp": "2023-11-11T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://elden.fi/logo.png",
+  "keywords": ["elden", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0x3e29b4AFcddb996715BF7E008D216A1eF4d20ec8",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 84531,
+      "logoURI": "/tokens/symbol/weth.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x6954a86E4584c2B4132303c9B2f231084481603B",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "/tokens/symbol/weth.png",
+      "modifier": "messi"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xD7486E46B98aD9888767E2dc96bA96F7aFEeFb2a",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "/tokens/symbol/weth.png",
+      "modifier": "messi-sepolia"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "/tokens/symbol/wmatic.png",
+      "modifier": "messi-polygon"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xf6F76fEF66396fc6F1a4D67B50Efd01b975A86B2",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 84531,
+      "logoURI": "/tokens/symbol/usdt.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x003b8e527B540148663804C081ff6DCe3FeCfB44",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "/tokens/symbol/usdt.png",
+      "modifier": "messi"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xAaf2eBb46374bB5C90fad64f864475Ae03C63586",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "/tokens/symbol/usdt.png",
+      "modifier": "messi-sepolia"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "/tokens/symbol/usdt.png",
+      "modifier": "messi-polygon"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x077DC5954616fDb87277fF55a7D70F7C37fe0EC2",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 84531,
+      "logoURI": "/tokens/symbol/usdc.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x027080116bCA91f2744732A4107fD0E2daCc6CF9",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 5,
+      "logoURI": "/tokens/symbol/usdc.png",
+      "modifier": "messi"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x67AEdc4fc5Ed1d0544B64b1AD4AcF16dB4Eb0DE0",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 11155111,
+      "logoURI": "/tokens/symbol/usdc.png",
+      "modifier": "messi-sepolia"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "/tokens/symbol/usdc.png",
+      "modifier": "messi-polygon"
+    },
+    {
+      "name": "Ggtoro Token",
+      "symbol": "GGTORO",
+      "address": "0x64484dE6E6EC90bCaf40d8Ac3EA58223C26A0B93",
+      "chainId": 5,
+      "decimals": 18,
+      "logoURI": "/tokens/symbol/ggtoro.png",
+      "modifier": "messi"
+    },
+    {
+      "name": "Ggtoro Token",
+      "symbol": "GGTORO",
+      "address": "0xcA1B983F101Ac7603fb3732a828f164d3fE5dF1B",
+      "chainId": 11155111,
+      "decimals": 18,
+      "logoURI": "/tokens/symbol/ggtoro.png",
+      "modifier": "messi-sepolia"
+    },
+    {
+      "name": "Ggtoro Token",
+      "symbol": "GGTORO",
+      "address": "0x659c6c121F60a788f9EFa26C2CF4323824Df435A",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "/tokens/symbol/ggtoro.png",
+      "modifier": "messi-polygon"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x06c2e7C81798a00eCc4892829884A3797C06116B",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 534351,
+      "logoURI": "/tokens/symbol/weth.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x633a39b7347610E2CcEd559c579a69cf82126119",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 534351,
+      "logoURI": "/tokens/symbol/usdc.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xa2EB04Bff2Ac8b9EFa47403F8dA213aCa809cECE",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 534351,
+      "logoURI": "/tokens/symbol/usdt.png"
+    },
+    {
+      "name": "Elden Token",
+      "symbol": "ELDEN",
+      "address": "0xf857482330C205A0353d4B40FF82Ae6004d7B9a0",
+      "chainId": 534351,
+      "decimals": 18,
+      "logoURI": "/tokens/symbol/elden.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/bnb.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/busd.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://elden.fi/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/wbtc.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/usdt.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://elden.fi/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0xFa60D973F7642B748046464e165A65B7323b0DEE",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://elden.fi/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Test BUSD Token",
+      "symbol": "tBUSD",
+      "address": "0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/busd.png"
+    }
+  ]
+}
